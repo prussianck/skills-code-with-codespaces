@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
   "remoteUser": "codespace",
   "overrideCommand": false,
-  "coustomizations": {
+  "customizations": {
     "vscode": {
       "extensions": [
         "GitHub.copilot"
